@@ -1,7 +1,7 @@
 public class Ice extends ElementoBasico {
 
   public Ice(String id, int linInicial, int colInicial, Tabuleiro tabuleiro) {
-    super(id, "ice_tile.png", linInicial, colInicial, tabuleiro);
+    super(id, "chao.jpg", linInicial, colInicial, tabuleiro);
   }
 
   @Override
